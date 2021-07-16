@@ -1,0 +1,15 @@
+
+playlist
+https://www.youtube.com/playlist?list=PLdo_ClMlIYh9GrfEhoxTdkJ0woULm1bFk
+
+Technology.mp4
+https://www.youtube.com/watch?v=74yp-HrHMr8&list=PLdo_ClMlIYh9GrfEhoxTdkJ0woULm1bFk&index=1&t=34s
+
+
+data.mp4 
+https://www.youtube.com/watch?v=jlP2z423j0U&list=PLdo_ClMlIYh9GrfEhoxTdkJ0woULm1bFk&index=3
+
+Frontend.mp4
+https://www.youtube.com/watch?v=7gzEbXVly-o&list=PLdo_ClMlIYh9GrfEhoxTdkJ0woULm1bFk&index=2
+
+
